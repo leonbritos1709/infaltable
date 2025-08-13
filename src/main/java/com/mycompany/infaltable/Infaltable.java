@@ -1461,20 +1461,20 @@ public class Infaltable {
         System.out.println("");
         System.out.println("");
         System.out.println("");
-        System.out.println("============================================");
-        System.out.println("   E L   D E S A F I O   D E L   L O R O");
-        System.out.println("============================================");
+        System.out.println("==============================================");
+        System.out.println("    E L   D E S A F I O   D E L   L O R O");
+        System.out.println("==============================================");
         System.out.println("==//==//==//==//==//==//==//==//==//==//==//==");
-        System.out.println("               EL LORO TE RETA");
+        System.out.println("                EL LORO TE RETA");
         System.out.println("==//==//==//==//==//==//==//==//==//==//==//==");
-        System.out.println("============================================");
-        System.out.println("           [1] Aceptar el reto");
-        System.out.println("           [2] Negarse al reto");
-        System.out.println("           [3] Ver tutorial");
-        System.out.println("           [4] Comandos especiales");
-        System.out.println("           [5] Creditos                         ");
-        System.out.println("           [6] Cerrar juego");
-        System.out.println("============================================");
+        System.out.println("==============================================");
+        System.out.println("            [1] Aceptar el reto");
+        System.out.println("            [2] Negarse al reto");
+        System.out.println("            [3] Ver tutorial");
+        System.out.println("            [4] Comandos especiales");
+        System.out.println("            [5] Creditos                         ");
+        System.out.println("            [6] Cerrar juego");
+        System.out.println("=============================================");
         int elec2 = scan.nextInt();
         switch (elec2) {
             case 3 ->
@@ -1972,7 +1972,7 @@ public class Infaltable {
         System.out.println("  Oliver Lanni: Idea principal de juego");
         System.out.println("  Ceibal:       Equipos para el desarrollo");
         System.out.println("                del juego");
-        System.out.println("  ChatGPT;      Correccion de errores");
+        System.out.println("  ChatGPT:      Correccion de errores");
         System.out.println("--------------------------------------------");
         System.out.println("           Y GRACIAS A TI JUGADOR");
         System.out.println("         POR SER PARTE DEL PROYECTO");
@@ -1989,3 +1989,12 @@ public class Infaltable {
     }
 
 }
+
+
+
+
+
+
+
+
+//                Si Marcelo esta es la linea 2000, Qué haces acá?
