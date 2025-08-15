@@ -45,6 +45,7 @@ public class Infaltable {
         System.out.println("---//----//----//----//----//----//----//---");
         System.out.println("             EL LORO TE DESAFIA");
         System.out.println("---//----//----//----//----//----//----//---");
+        System.out.println("Lioooon");
 
         while (setsP != 3 && setsM != 3) {
 
@@ -1985,9 +1986,8 @@ public class Infaltable {
             if (input.isEmpty()) {
                 menu();
             }
-        }
     }
-
+    }
 }
 
 
