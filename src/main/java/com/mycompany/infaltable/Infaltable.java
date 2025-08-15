@@ -46,6 +46,7 @@ public class Infaltable {
         System.out.println("             EL LORO TE DESAFIA");
         System.out.println("---//----//----//----//----//----//----//---");
         System.out.println("Lioooon");
+        System.out.println("DEMACIAAAA");
 
         while (setsP != 3 && setsM != 3) {
 
