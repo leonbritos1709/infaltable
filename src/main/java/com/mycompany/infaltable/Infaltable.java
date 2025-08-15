@@ -47,6 +47,7 @@ public class Infaltable {
         System.out.println("---//----//----//----//----//----//----//---");
         System.out.println("Lioooon");
         System.out.println("DEMACIAAAA");
+        System.out.println("aduebuewue");
 
         while (setsP != 3 && setsM != 3) {
 
